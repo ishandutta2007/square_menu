@@ -70,3 +70,10 @@ If you want to see more of my plugins, visit [The Pete Design](http://www.thepet
 
 ## Other Resources
 - [Tutorial](http://www.onextrapixel.com/2014/01/09/create-a-square-like-3d-animated-menu-gallery-with-jquery-square-menu/)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
